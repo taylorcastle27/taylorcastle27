@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taylorcastle27
 - 👀 I’m interested in AI, .NET, and distributed systems.
-- 🌱 I’m currently learning Autogen and TS.
+- 🌱 I’m currently studying for my B.S. Computer Science
 - 💞️ I’m looking to collaborate on OSS projects.
 - 📫 How to reach me 
 - ⚡ Fun fact: I love to sing to my dogs.
