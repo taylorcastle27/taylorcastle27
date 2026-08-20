@@ -4,7 +4,7 @@
 
 I bring an engineering mindset shaped by real-world problem solving: break complex systems into clean parts, make the solution understandable, and ship work that is useful beyond the first demo. My GitHub is where I document that approach in public — through working code, structured exercises, and practical notes that show how I think.
 
-> **At a glance:** 14 public repositories • 3 core implementation languages • hands-on work spanning automation, data workflows, C++ foundations, and .NET application development
+> **At a glance:** 3 core implementation languages • featured work spanning automation, data workflows, C++ foundations, and .NET application development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,7 +40,7 @@ I bring an engineering mindset shaped by real-world problem solving: break compl
 
 ## Public Work, Credibility, and Contribution Style
 
-- **Maintaining a growing public portfolio:** 14 repositories across Python, C++, C#, JavaScript, and engineering documentation.
+- **Maintaining a growing public portfolio:** Active repositories across Python, C++, C#, JavaScript, and engineering documentation.
 - **Technical writing in the open:** Repos like [DesignPrinciples](https://github.com/taylorcastle27/DesignPrinciples) and the writeups in PythonNumpy show that I care about making ideas transferable, not just functional.
 - **Community-minded learning:** I prefer to learn in public, share the process, and leave behind examples that other engineers can adapt quickly.
 - **Learning with professional intent:** My public work is built to be readable, extendable, and useful to collaborators, hiring teams, or other engineers following a similar path.
